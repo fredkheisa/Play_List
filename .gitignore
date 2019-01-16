@@ -1,0 +1,6 @@
+virtual/
+.env
+migrations/
+.vscode
+Ngoma/__pycache__/
+Play_List/__pycache__/
