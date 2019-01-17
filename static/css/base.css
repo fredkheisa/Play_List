@@ -1,0 +1,8 @@
+body{
+    background-image: url("static/img/fb_neighbourhood.jpg"); 
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background: linear-gradient(to top, #33ccff 0%, #ff99cc 100%);    
+}
